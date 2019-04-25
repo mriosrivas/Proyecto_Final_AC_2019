@@ -1,10 +1,9 @@
 # Proyecto Final Arquitectura del Computador 1
 
 ## Primera Parte (10 pts.)
-Realizar una presentación que resuma todos los conceptos aprendidos en clase de la siguiente manera:
-* Suponga que usted ha escrito un programa en lenguaje de máquina virtual, entonces deberá explicar todo el proceso que se lleva a cabo hasta que su código es interpretado como ceros y unos en hardware. Se espera entonces que el grupo presente las conversiones de código al momento de la evaluación.
+Realizar una presentación del capítulo 8 de su libro de texto, Virtual Machine II, así como también la implementación de este proyecto presentando sus resultados el día de la evaluación.
 
-La misma no debe durar más de 20 minutos. Trate de ser creativo en su presentación. La fecha de presentación será el **Miércoles 08 de Mayo en horario de clase**.
+La misma no debe durar más de 10 minutos. Trate de ser creativo en su presentación. La fecha de presentación será el **Miércoles 08 de Mayo en horario de clase**.
 
 
 ## Segunda Parte (20 pts.)
@@ -47,8 +46,8 @@ Este proyecto consiste en crear un contador que se muestre en el dispay de 7 seg
 En este repositorio se adjuntan dos proyectos de Vivado donde se encuentra implementado el procesador Microblaze, en clase se dará una breve explicación de como utilizarlo. Favor de tomar en cuenta de que también debe de tener instalado el Xilinx Software Development Kit, SDK, el cual, si realizó la instalación como se indicó en clase, debería de tener instalada. Puede descargar la última versión del SDK [acá](https://www.xilinx.com/support/download/index.html/content/xilinx/en/downloadNav/embedded-design-tools.html)
 
 ### 4. Entrega y Presentación
-El proyecto y presentación debe de ser subido al repositorio de cada grupo en una carpeta llamada Final. Deben de incluirse todos los archivos, tanto el proyecto de Vivado como el proyecto de SDK.
+El proyecto y presentación debe de ser subido al repositorio de cada grupo en una carpeta llamada Final. Deben de incluirse todos los archivos, tanto el proyecto de Vivado, el proyecto de SDK y el proyecto de Nand2Tetris.
 
-Debe de realizarse una presentación por grupo de no más de 20 minutos donde incluyan sus resultados, implementación y consideraciones a la hora de realizar su proyecto.
+Debe de realizarse una presentación por grupo de no más de 10 minutos donde incluyan sus resultados, implementación y consideraciones a la hora de realizar su proyecto.
 
 La fecha de presentación será el **Jueves 09 de Mayo**.
